@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "Package name of the game:"
+          description: "jp.goodsmile.touhoulostwordglobal_android:"
           required: true
 
 jobs:
